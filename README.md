@@ -8,7 +8,7 @@ Moreover, this repo encourages user contributions of their own visualization res
 
 ## Chinese
 这个repo致力于收集和分享机器学习可视化的资源。通过这个仓库，您可以找到各种精美的ML绘图资源，用于展示和呈现机器学习模型。
-这些资源不仅仅是图像，还包括Viso、PPT和矢量图等多种形式的可编辑图像。
+这些资源不仅仅是图像，还包括Visio、PPT和矢量图等多种形式的可编辑图像。
 
 
 # Links 
@@ -39,10 +39,14 @@ Find MIS AI and Machine Learning Stencils in [MIS AI and Machine Learning Stenci
 ## neural-network
 Visio template for visualizing neural networks.
 
-viso模板，神经网络可视化。
+visio模板，神经网络可视化。
 
 [neural-network.vsdx](https://github.com/rain1024/machine-learning/blob/master/neural-network/visio/neural-network.vsdx)
 
+## Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+Many kinds of visualization of deep learning models. Code tools
+
+[Tool collection for DL architecture](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 
 
 
