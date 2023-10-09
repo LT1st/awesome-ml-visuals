@@ -7,4 +7,44 @@ Through this repo, you can explore different types of visualization techniques s
 Moreover, this repo encourages user contributions of their own visualization resources to foster sharing and collaboration. You can share your creative ideas, charts, and code to enrich and refine this resource repository together with the community. Whether you are a machine learning expert, data scientist, or a beginner interested in visualization, this repo will serve as a valuable resource for exploring, learning, and presenting machine learning visualizations.
 
 ## Chinese
-这个repo致力于收集和分享机器学习可视化的资源。通过这个仓库，您可以找到各种精美的ML绘图资源，用于展示和呈现机器学习模型。这些资源不仅仅是图像，还包括Viso、PPT和矢量图等多种形式的可视化工具。
+这个repo致力于收集和分享机器学习可视化的资源。通过这个仓库，您可以找到各种精美的ML绘图资源，用于展示和呈现机器学习模型。
+这些资源不仅仅是图像，还包括Viso、PPT和矢量图等多种形式的可编辑图像。
+
+
+# Links 
+## ML-visuals
+PPT templates for drawing neural network structures, flowcharts, etc. Includes CNN, Transformer, RNN, and more.
+
+PPT模板，用于绘制神经网络结构、流程图等。包含CNN、Transformer、RNN等。
+
+[ML-visuals in Google doc](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing)
+[ML-visuals Official Github link](https://github.com/dair-ai/ml-visuals)
+
+## aws-mlu-explain
+Visualization of ML models provided in code form.
+
+ML的部分模型可视化，代码形式给出。
+
+[aws-mlu-explain Official Github link](https://github.com/aws-samples/aws-mlu-explain)
+
+## MIS AI and Machine Learning Stencils
+Visio templates with ML-related icons.
+
+viso模板，ML相关的图标。
+
+[Official Github link](https://github.com/Ascenda/Ascenda-Stencils-Pack-for-Visio)
+
+Find MIS AI and Machine Learning Stencils in [MIS AI and Machine Learning Stencils.vssx](https://github.com/Ascenda/Ascenda-Stencils-Pack-for-Visio/blob/master/AI%20and%20Machine%20Learning/MIS%20AI%20Stencils%20v3.1.0.vssx)
+
+## neural-network
+Visio template for visualizing neural networks.
+
+viso模板，神经网络可视化。
+
+[neural-network.vsdx](https://github.com/rain1024/machine-learning/blob/master/neural-network/visio/neural-network.vsdx)
+
+
+
+
+
+
