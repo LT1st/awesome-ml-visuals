@@ -1,5 +1,5 @@
 # awesome-ml-visuals
-## English
+
 This repo aims to be a comprehensive platform for collecting machine learning visualization resources. It will provide you with a diverse range of ML plotting resources to help you showcase and present machine learning models effectively. You can find stunning charts, graphs, and images here to visualize aspects such as algorithms, model architectures, feature importance, and more. Additionally, various tools like Viso, PowerPoint slides, and vector graphics will be available to assist you in creating visually appealing and clear presentations.
 
 Through this repo, you can explore different types of visualization techniques such as scatter plots, line charts, heatmaps, radar charts, and learn tricks to enhance visualizations with colors, styles, and layouts. You can also delve into how to use visualization tools to interpret and communicate complex concepts and results of machine learning models. This will aid you in showcasing and communicating your machine learning achievements effectively in academic, research, or business domains.
@@ -15,6 +15,9 @@ Moreover, this repo encourages user contributions of their own visualization res
 PPT templates for drawing neural network structures, flowcharts, etc. Includes CNN, Transformer, RNN, and more.
 
 PPT模板，用于绘制神经网络结构、流程图等。包含CNN、Transformer、RNN等。
+
+![image](https://github.com/user-attachments/assets/8397f4f8-fce5-4dfd-9a81-ecf3e34675e5)
+
 
 [ML-visuals in Google doc](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing)
 [ML-visuals Official Github link](https://github.com/dair-ai/ml-visuals)
