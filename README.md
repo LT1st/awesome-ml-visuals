@@ -63,6 +63,7 @@ Many kinds of visualization of deep learning models. Code tools
         data-icon="octicon-repo-forked" data-show-count="true"
         aria-label="Fork LT1st/awesome-ml-visuals on GitHub">Fork</a>
 </i>
-
+<!-- 在文档最后添加GitHub按钮脚本 -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
