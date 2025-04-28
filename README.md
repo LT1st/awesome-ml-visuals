@@ -52,7 +52,7 @@ Many kinds of visualization of deep learning models. Code tools
 
 
 <br>
-* <i>Update on Oct，2023 @<a href="https://github.com/LT1st" target="_blank">Charmve</a>, 
+* <i>Update on Oct，2023 @<a href="https://github.com/LT1st" target="_blank">LT1st</a>, 
     <a class="github-button"
         href="https://starchart.cc/LT1st/awesome-ml-visuals/star"
         data-icon="octicon-star" data-show-count="true"
@@ -63,6 +63,7 @@ Many kinds of visualization of deep learning models. Code tools
         data-icon="octicon-repo-forked" data-show-count="true"
         aria-label="Fork LT1st/awesome-ml-visuals on GitHub">Fork</a>
 </i>
+
 <!-- 在文档最后添加GitHub按钮脚本 -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
